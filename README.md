@@ -1,6 +1,7 @@
 # hamrah | همراه
 
 **A lightweight, Persian-first web interface for local language models running through [Ollama](https://ollama.com/).**
+<img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/c7f621e6-d541-4ed7-b90e-af1efc1285c1" />
 
 همراه یک رابط کاربری سبک، فارسی و راست‌چین برای گفتگو با مدل‌های زبانی محلی است که از طریق Ollama اجرا می‌شوند. هدف پروژه این است که برای گفتگوهای متنی و ادامه‌ی بعضی کارهای شخصی، به‌جای استفاده از ترمینال یا یک برنامه‌ی دسکتاپ سنگین، یک رابط ساده و در دسترس داشته باشید.
 
