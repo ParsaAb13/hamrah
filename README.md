@@ -76,7 +76,7 @@ ollama list
 
 ```text
 hamrah/
-├── index.html
+├── hamrah_v.0.1.html
 ├── README.md
 ├── LICENSE
 └── screenshots/
